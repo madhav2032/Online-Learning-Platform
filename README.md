@@ -65,3 +65,7 @@ Creating an online learning platform using HTML, CSS, and JavaScript can provide
 - **Bootstrap:** A popular CSS framework that can help you create responsive designs quickly.
 - **Tutorials and Courses:** Websites like Coursera, Codecademy, and YouTube offer numerous tutorials and courses to help you improve your skills in HTML, CSS, and JavaScript[8][9].
 
+OUTPUT
+![Image](https://github.com/user-attachments/assets/1c643f0b-7b43-425a-96be-23e20a6aa63d)
+
+![Image](https://github.com/user-attachments/assets/d3c621da-ed70-4564-aeeb-9e729dfa9a2a)
