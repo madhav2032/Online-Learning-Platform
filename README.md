@@ -1,10 +1,17 @@
 # Online-Learning-Platform
+
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: ARATI MANGROLE
+
 INTERN ID: CT12ODZ
+
 DOMAIN: WED DEVELOPMENT
+
 DURATION: 8 WEEKS
+
 MENTOR: NEELA SANTOSH
+
 DESCRIPTION:
 Creating an online learning platform using HTML, CSS, and JavaScript can provide a robust and interactive environment for educational content. Here's a detailed description of how you can build such a platform, incorporating these technologies to enhance user experience and engagement.
 
